@@ -212,7 +212,7 @@ export default function LoginPage() {
             <div className="space-y-2 text-xs text-gray-600">
               <div><strong>Admin:</strong> admin@steel.com / admin123</div>
               <div><strong>Owner:</strong> owner@steelfactory.com / owner123</div>
-              <div><strong>Labourer:</strong> labourer1@steelfactory.com / labourer1</div>
+              <div><strong>Labourer:</strong> labourer1@steelsolutionsltd.com / labourer1</div>
             </div>
           </div>
         </div>
